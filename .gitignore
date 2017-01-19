@@ -1,4 +1,4 @@
 .gradle
 build
 log.txt
-project.properties
+firmwaretool.properties
