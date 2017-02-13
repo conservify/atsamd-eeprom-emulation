@@ -2,7 +2,7 @@
 #include <nvm.h>
 #include <system.h>
 #include <sam.h>
-#include "eeprom.h"
+#include <eeprom.h>
 
 static bool eeprom_configure_fuses() {
     nvm_fusebits fb;
